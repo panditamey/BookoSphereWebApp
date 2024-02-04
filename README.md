@@ -1,12 +1,12 @@
 
 Server Repository: 
 ```bash
-link
+https://github.com/panditamey/BookoSphereServer
 ```
 
 Application Repository: 
 ```bash
-link
+https://github.com/panditamey/BookoSphereApp
 ```
 
 
