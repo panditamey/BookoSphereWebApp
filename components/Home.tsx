@@ -19,9 +19,9 @@ function Home() {
                 <div className="">
                     <img width={500} src="mock1.png" alt="" />
                 </div>
-                <div className="flex flex-col items-center">
+                <div className="flex flex-col items-center text-center">
                     <img width={200} src="appbar.png" alt="" />
-                    <span className='font-bold'>Read and Generate AI-Written Books of Your Own Choice.</span>
+                    <span className='font-bold'>Read and Generate AI-Written Books <br /> of Your Own Choice.</span>
                     <br />
                     <span>Download the Android App now</span>
                     <Button className='mt-5 px-10 py-5 h-8 text-sm text-white rounded-full border-purple-100 border-solid border-2 bg-purple-500' onClick={
